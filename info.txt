@@ -1,0 +1,31 @@
+
+//node.js websocket
+https://segmentfault.com/a/1190000011538416
+
+1.定位到文件夹下，输入npm install socket.io安装socket.io
+
+2.開啟socket ,執行app.js -> node app/app.js
+
+
+**連線到sql
+1.npm init，其實這一步對於這個demo並沒有作用，這個命令主要是在專案中引導建立一個package.json檔案安裝包的資訊可保持到專案的package.json檔案中,以便後續的其它的專案開發或者他人合作使用。
+
+2.npm install mysql -> 載入mysql module
+
+3.npm list -> 確認現在有的module
+
+4.確保資料庫有開
+
+
+
+
+**後端socket相關js
+db.js
+database.config.js
+app.js
+
+
+**前端用
+jquery
+socket.io.js
+chat.js
